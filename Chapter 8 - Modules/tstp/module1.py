@@ -8,4 +8,6 @@ Created on Fri Aug 16 01:41:15 2019
 
 
 if __name__ == "__main__":
-    print("Hello !")
+    
+    def hello():
+        print("Hello !")

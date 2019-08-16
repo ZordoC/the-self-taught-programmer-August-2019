@@ -7,5 +7,9 @@ Created on Fri Aug 16 01:38:39 2019
 """
 import hello 
 
+import module1
+
+module1.hello
+
 hello.print_hello()
 
